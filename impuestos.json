@@ -1,0 +1,20 @@
+{
+  "updatedAt": "2026-11-23",
+  "countries": [
+    { "code": "USD", "currency": "USD", "name": "EE. UU. / Internacional", "taxPercent": 0.0, "note": "Precio base en dólares sin impuestos locales" },
+    { "code": "AR", "currency": "ARS", "name": "Argentina (Tarjeta / Oficial)", "taxPercent": 23.0, "note": "21% IVA Digital + ~2% IIBB promedio sobre Dólar Oficial (0% Ganancias gaming)" },
+    { "code": "AR_MEP", "currency": "ARS", "name": "Argentina (Dólar MEP / USD propio)", "taxPercent": 0.0, "note": "Referencia en pesos al valor MEP sin recargo de tarjeta" },
+    { "code": "MX", "currency": "MXN", "name": "México", "taxPercent": 16.0, "note": "16% IVA (Steam MXN suele incluirlo; útil en tiendas USD)" },
+    { "code": "CL", "currency": "CLP", "name": "Chile", "taxPercent": 19.0, "note": "19% IVA servicios digitales" },
+    { "code": "CO", "currency": "COP", "name": "Colombia", "taxPercent": 19.0, "note": "19% IVA" },
+    { "code": "PE", "currency": "PEN", "name": "Perú", "taxPercent": 18.0, "note": "18% IGV servicios digitales" },
+    { "code": "UY", "currency": "UYU", "name": "Uruguay", "taxPercent": 22.0, "note": "22% IVA referencia (algunas tarjetas no cobran en gaming)" },
+    { "code": "BR", "currency": "BRL", "name": "Brasil", "taxPercent": 4.38, "note": "IOF tarjeta internacional (~4.38%; en tienda BRL suele ser 0%)" },
+    { "code": "PY", "currency": "PYG", "name": "Paraguay", "taxPercent": 10.0, "note": "10% IVA servicios digitales" },
+    { "code": "EC", "currency": "USD", "name": "Ecuador", "taxPercent": 15.0, "note": "15% IVA (sumar ISD si aplica tu banco)" },
+    { "code": "BO", "currency": "BOB", "name": "Bolivia", "taxPercent": 0.0, "note": "Referencia sin IVA estándar (puedes ajustarlo)" },
+    { "code": "CR", "currency": "CRC", "name": "Costa Rica", "taxPercent": 13.0, "note": "13% IVA servicios digitales" },
+    { "code": "DO", "currency": "DOP", "name": "Rep. Dominicana", "taxPercent": 18.0, "note": "18% ITBIS referencia" },
+    { "code": "ES", "currency": "EUR", "name": "España / Eurozona", "taxPercent": 21.0, "note": "IVA referencia (en tiendas EUR suele venir incluido)" }
+  ]
+}
