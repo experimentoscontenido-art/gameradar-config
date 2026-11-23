@@ -1,0 +1,11 @@
+{
+  "updatedAt": "2026-11-23",
+  "pcGames": [
+    { "id": "palworld", "title": "Palworld", "genre": "Supervivencia", "minGpuScore": 50, "recGpuScore": 80, "minCpuScore": 48, "recCpuScore": 72, "minRamGb": 16, "recRamGb": 16, "storageGb": 40, "storageNeed": "RECOMMENDED_SSD", "communityNote": "Consume bastante RAM en servidores con mucha gente; 16 GB mínimo recomendado." },
+    { "id": "bg3", "title": "Baldur's Gate 3", "genre": "RPG", "minGpuScore": 52, "recGpuScore": 82, "minCpuScore": 50, "recCpuScore": 76, "minRamGb": 8, "recRamGb": 16, "storageGb": 150, "storageNeed": "REQUIRED_SSD", "communityNote": "El Acto 3 exige mucho CPU y SSD para que no tarden en cargar los edificios." }
+  ],
+  "mobileGames": [
+    { "id": "bloodstrike", "title": "Blood Strike", "genre": "Shooter", "sizeGb": 2.5, "requires64Bit": false, "minAndroidApi": 24, "minRamGb": 2.0, "demandTier": 1, "communityNote": "Muy optimizado por la comunidad para celulares gama baja con 2-3 GB de RAM." },
+    { "id": "arena_breakout", "title": "Arena Breakout", "genre": "Shooter Táctico", "sizeGb": 4.5, "requires64Bit": true, "minAndroidApi": 24, "minRamGb": 4.0, "demandTier": 3, "communityNote": "Tiene versión 'Lite' en Play Store ideal si tu celular tiene 3-4 GB de RAM." }
+  ]
+}
